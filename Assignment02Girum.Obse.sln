@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BIDD330_HW2_Girum", "BIDD330_HW2_Girum", "{93C9B93F-D336-4EA1-ADC2-AC635F6FCA87}"
+	ProjectSection(SolutionItems) = preProject
+		BIDD330_HW2_Girum\BIDD330_HW2_Girum\Deploy\BIDD330_HW2_Girum.twbx = BIDD330_HW2_Girum\BIDD330_HW2_Girum\Deploy\BIDD330_HW2_Girum.twbx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{FD6CD60F-96ED-4FBF-921E-344BB29BD56B}"
+	ProjectSection(SolutionItems) = preProject
+		Document\StorytellingWithData_Technical_WriteUp.docx = Document\StorytellingWithData_Technical_WriteUp.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F06C5E9-95AA-4FF4-83ED-BCF2C879EEEE}
+	EndGlobalSection
+EndGlobal
