@@ -1,6 +1,6 @@
 ﻿# 📊 A02_TableauWorkflow – Tableau Desktop  
 **Course**: BIDD 330 A Sp 25  
-**Author**: Girum Obse  
+**Author**: Girum  
 **Date**: April 17, 2025  
 
 ---
@@ -10,7 +10,6 @@
 This repository includes:
 
 - Tableau packaged workbook (`.twbx`)
-- Screenshots and supporting visuals (if any)
 - README documentation
 - GitHub Wiki (linked)
 - Zipped folder for Canvas submission
