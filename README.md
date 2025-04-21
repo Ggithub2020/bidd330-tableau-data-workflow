@@ -20,10 +20,10 @@ This repository includes:
 This project introduces Tableau Desktop fundamentals using a structured class dataset hosted on a Microsoft SQL Server. The assignment involves:
 
 - Connecting to a live database  
-  ![📸 Data Connection Screenshot](screenshots/data_connection.png)
+![Image](https://github.com/user-attachments/assets/a366cbb4-c9fd-447f-9729-7d313ee3430c)
 
 - Building a proper data model  
-  ![📸 Data Model Screenshot](screenshots/data_model.png)
+![Image](https://github.com/user-attachments/assets/ab61892f-3ecc-48f9-b21d-64f2fddbad90)
 
 - Creating simple calculated fields  
 - Developing a dashboard layout  
