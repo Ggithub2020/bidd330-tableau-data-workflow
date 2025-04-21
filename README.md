@@ -12,9 +12,6 @@ This repository includes:
 - Tableau packaged workbook (`.twbx`)
 - README documentation
 - GitHub Wiki (linked)
-- Zipped folder for Canvas submission
-
----
 
 ## 🔍 Assignment Description  
 
